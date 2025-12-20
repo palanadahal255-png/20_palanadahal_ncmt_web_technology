@@ -1,1 +1,66 @@
+Group A: Short Questions (2 Marks)
+1.Define the term “Protocol” in the context of the Internet.
+Ans: A protocol is a set of rules  that control how data is sent and received between computers on the Internet.
 
+2.What is the primary difference between a Web Browser and a Search Engine?
+Ans:A web browser is a software application  that is used to access and view websites on the Internet (e.g., Chrome, Firefox), while a search engine is an online tool that is  used to find information or websites on the Internet (e.g., Google, Bing).
+
+3.Define the World Wide Web (WWW).
+Ans: A system of interlinked web pages and multimedia content accessible via browsers like Chrome or
+Firefox.Example: Browsing Wikipedia or watching YouTube.
+
+4.Distinguish between a static web page and a dynamic web page.
+Ans: A static web page shows the same content to all users and does not change unless the developer updates it manually, while a dynamic web page displays different content based on user interaction, time, or data from a database.
+
+Group B: long Questions (4 Marks)
+5.Explain the client-server architecture of the web with a neat diagram.
+Client–server architecture is a system where the client and server work together on the web. The client is the user’s device with a web browser that sends a request for a web page. The server is a powerful computer that stores websites and sends the requested page back to the client, which then displays it on the screen. This system allows many clients to access the same server at the same time. It also makes managing and updating websites easier because changes are made on the server and reflected for all users. 
+Client (Web Browser)
+        |
+   Request (URL)
+        |
+        v
+   Web Server
+        |
+   Response (Web Page)
+        |
+        v
+Client (Displays Page)
+
+6.Describe the functions of the following Internet services: Email, FTP, and VoIP.
+Ans: The functions of the following Internet services are as follows:
+i.Email(Electronic mail)
+ Send and receive messages quickly.
+ Share  files, documents, and images.
+ Communicate with multiple people at once.
+ Keep a record of conversations for future reference.
+
+ii.FTP(File Transfer Protocol)
+ Transfer files between computers over the internet.
+ Upload files to a server.
+ Download files from a server.
+ Manage files on a remote server(rename, delete or organize).
+
+iii.VoIP(Voice over Internet Protocol)
+ Makes voice calls over the internet.
+ Support video calls and conferencing.
+ Reduce long -distance and international call costs.
+ Enable communication from anywhere with an internet connection.
+
+7.“The Internet is a network of networks.” Elaborate on this statement explaining how packet switching works.
+Ans: “The Internet is a network of networks” means that the Internet is made by connecting many smaller networks together, such as home, school, and business networks. These networks communicate with each other to share information and resources globally.Data is divided into small units called packets.The following are the statements, how packet switching works:
+ Data is divided into small units called packets.
+ Each packet travels independently through the network, possibly via different paths.
+ Packets are reassembled at the destination to form the original message.
+ This process makes data transfer faster and more efficient.
+
+Group C: Scenario-Based Questions (5 Marks)
+8.A startup company wants to host a website that displays the same information to all visitors and requires very low maintenance costs. However, they are being advised to use a dynamic website. As a consultant, would you agree? Justify your answer.
+Ans: I would not suggest using a dynamic website for this startup. Since the company wants the same information to be shown to everyone and wants low maintenance costs, a static website is better. Static websites are simple, easy to manage, and do not cost much to host because they do not need databases or complicated programming. Dynamic websites are more complex and need more time and money to maintain, which is not needed for a website that does not change. So, a static website is the best choice for this company. It is also faster to load and more secure because there are fewer chances of errors or hacking. Overall, a static website perfectly meets the company’s needs.
+
+9.A user types www.google.com into their browser, but the browser displays a “Server Not Found” error, even though the internet connection is active. However, accessing the site via 142.250.190.46 works. Diagnose the problem and explain the underlying technology that failed.
+Ans: The problem is caused by the Domain Name System (DNS). When I type www.google.com in the browser, it tries to find the IP address of the website using a DNS server. The “Server Not Found” error happens because the DNS could not give the correct IP address. But when I use the IP address 142.250.190.46, the website opens because the browser does not need DNS to connect. DNS is what changes website names into IP addresses so computers can understand them. Therefore, the underlying technology that failed is the Domain Name System(DNS),
+not the Internet connection or the web server.
+
+10.A multinational corporation wants to share sensitive inventory data with specific suppliers but does not want this information available to the general public. Explain which network type (Intranet, Extranet, or Internet) they should implement and why.
+Ans: The company should use an Extranet. It is a private network that lets the company share important information with certain people, like suppliers, while keeping it safe. Only people with passwords or permission can see the data, so it stays secure. This way, the company can share inventory details without worrying about others seeing it. It also makes it easier for suppliers to get the information they need, and they always have the latest updates. Using an extranet helps the company and suppliers work together faster and better. It also reduces mistakes because everyone has the correct information, and it saves time since updates can be shared immediately.
