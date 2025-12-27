@@ -1,1 +1,70 @@
+CHAPTER 2: WEBSITE DEVELOPMENT PROCESS 
+Group A: Short Questions (2 Marks) 
+1.Define the term ”Sitemap” in the planning phase. 
+Ans: A sitemap is a simple list or diagram of all the pages of a website, showing how they are organized and connected to each other.
+
+2.What is the purpose of the ”Launch” phase in web development? 
+Ans:The launch phase is used to make the website live on the internet so users can access it. It includes final testing, fixing last errors, and deploying the website on a server.
+
+3.Why is ”Documentation” important in the development lifecycle? 
+Ans:Documentation is important because it explains how the system works, making it easier to maintain, update, and understand the project in the future.
+
+4.Differentiate between Front-end and Back-end development.
+Ans:  Front-end development deals with the part of the website that users see and interact with, like design, layout, and buttons while Back-end development deals with the server side of the website, such as databases, server logic, and data processing.
+
+Group B: Long Questions (4 Marks) 
+
+5. ”Planning is the most critical phase of web development.” Discuss this statement by listing 
+the key activities performed during the planning phase. 
+Ans: Planning is the most critical phase of web development because it lays the foundation of the entire project.
+The key activities performed during the planning phase are:
+Identifying the purpose and goals of the website
+Understanding user requirements
+Defining website features and functionality
+Creating sitemap and navigation structure
+Selecting technology and resources
+Estimating time, cost, and project schedule 
+
+6. Explain the iterative nature of the Maintenance phase. Why is a website never truly 
+”finished”? 
+Ans: The maintenance phase is iterative because it is repeated continuously after the website is launched. Tasks like fixing bugs, updating content, improving performance, and adding new features are done again and again based on user feedback and changing needs.
+A website is never truly finished because technology changes, user expectations grow, and security updates are required to keep the site working properly and relevant.
+
+7. Describe the process of ”Information Gathering.” Why is understanding the target audi
+ence crucial during this step? 
+Ans: Information gathering is the process of collecting all the necessary details about the website, such as its purpose, goals, content, features, and requirements from stakeholders.This step helps in understanding what the website should achieve and how it should function. It may involve talking to clients, analyzing competitor websites, and reviewing existing materials to gather complete information.
+Understanding the target audience is crucial because it helps design the website in a way that meets their needs, preferences, and expectations, making it more user-friendly and effective.Knowing the audience helps in making decisions about layout, navigation, tone, and features, ensuring the website is user-friendly, engaging, and effective in achieving its goals. A clear understanding of the audience reduces the risk of building a site that fails to connect with its users.
+
+Group C: Scenario-Based Questions (5 Marks) 
+
+8. You are the project manager for a new e-commerce site. The client wants to skip the 
+”Testing” phase to save money and launch early. Write a persuasive argument explaining 
+the potential risks (security, functionality, compatibility) of skipping this phase. 
+Ans: As the project manager, I would tell the client that skipping the testing phase is very risky and can cause serious problems. Without proper testing, the website might have security issues that could put customer information, such as personal details and payment data, at risk. It may also have functionality problems, like broken links, errors during checkout, or slow-loading pages, which can frustrate users. In addition, the website might face compatibility issues and not work properly on different browsers or devices. These problems can damage the website’s reputation, reduce customer trust, and cause a loss of sales. Fixing these issues after the website is live is usually much more expensive than testing it thoroughly before launch. Therefore, launching the website without proper testing can negatively affect both the business and its customers.
+
+9. A developer begins coding a website immediately after meeting the client, without creating 
+a design prototype or sitemap. Midway through, the client rejects the layout. Analyze 
+what went wrong in the process and how it should have been handled. 
+Ans:
+What went wrong:
+The developer started coding immediately without planning the website structure or design.
+No sitemap or design prototype was created, so the client could not see or approve the layout beforehand.
+As a result, the client rejected the layout midway, wasting time and effort.
+
+How it should have been handled:
+First, create a sitemap to show the pages and navigation of the website.
+Develop a design prototype for the client to review and approve before coding begins.
+Only after client approval should development start, which prevents rework, saves time, and ensures the website meets the client’s expectations.
+
+10. A university website was launched successfully, but after six months, students stopped 
+visiting it because the exam schedules were outdated. Which phase of the development 
+lifecycle was neglected? Explain the activities involved in this phase.
+
+Ans: The Maintenance phase of the development lifecycle was neglected in this case.
+The maintenance phase is crucial to ensure that a website continues to function properly and remains useful to its users even after it is launched. This phase involves several important activities:
+Updating content regularly, such as news, announcements, and exam schedules, to keep   information current and relevant.
+Fixing errors or bugs that may appear after the website goes live, ensuring smooth operation.
+Improving performance, such as optimizing loading speed and responsiveness.
+Ensuring compatibility with new devices, browsers, or software updates to provide a consistent user experience.
+Neglecting this phase, as in the case of outdated exam schedules, can make the website unreliable and unhelpful, causing users like students to stop visiting. Proper maintenance keeps the website relevant, functional, and trustworthy over time.
 
