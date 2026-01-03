@@ -1,1 +1,67 @@
+Group A: Short Questions (2 Marks) 
+1.Define Information Architecture (IA). 
+Ans: Information Architecture (IA) is the practice of organizing, structuring, and labeling information so that users can easily find and understand content in a website or information system.
+
+2.What is a ”Wireframe”? 
+Ans:  A wireframe is a simple visual blueprint of a website or application that shows the basic layout, structure, and placement of elements without detailed design, colors, or graphics.
+
+3.Explain the concept of ”Cognitive Friction” in web design. 
+Ans: Cognitive friction in web design refers to the mental effort a user has to make to understand and use a website. When a design is confusing, cluttered, or unclear, users must think harder, which can lead to frustration. Good web design reduces cognitive friction by being simple, clear, and easy to use.
+
+4.Why should URL slugs use hyphens instead of underscores? 
+Ans: URL slugs should use hyphens instead of underscores because search engines treat hyphens as word separators, making the URL easier to read and understand. Underscores join words together, which can confuse search engines and users. Hyphens also improve readability and SEO performance.
+
+Group B: Long Questions (4 Marks) 
+
+5.Compare and contrast Hierarchical (Tree) structure and Linear (Sequential) structure. Give an example of when to use each. 
+ Ans: The difference between Hierarchical (Tree) structure and Linear (Sequential) structure are:
+1. Hierarchical structure organizes data in parent–child levels, while linear structure organizes data in a single straight sequence.
+2. Hierarchical structure has multiple levels of data, while linear structure has only one level.
+3. In a hierarchical structure, one parent can have many children, while in a linear structure each element is connected to only one next element.
+4. Hierarchical structure is more complex to design and manage, while linear structure is simple and easy to use.
+5. Hierarchical structure is suitable for representing relationships, while linear structure is suitable for representing order.
+6. Hierarchical structure is used in organization charts or file systems, while linear structure is used in arrays, lists, or queues.
+7. Hierarchical structure is used in organization charts or file systems, while linear structure is used in arrays, lists, or queues
+
+6.Explain the ”Three-Click Rule” and its significance in User Experience (UX) design.
+Ans: The Three-Click Rule is a principle in web design which states that users should be able to access any information on a website within three clicks from the homepage or starting point. This rule is important in User Experience (UX) design because it helps make websites easy to navigate, saving users’ time and reducing confusion or frustration. By limiting the number of clicks, designers ensure that users can quickly find what they are looking for, which keeps them engaged and encourages them to explore more content. Following this rule improves overall satisfaction, builds trust, and increases the likelihood that users will return to the website. 
+
+7.”Plan before you do.” Explain how tools like Card Sorting and Flowcharts help in planning a website’s structure. 
+Ans: Plan before you do” means that before designing a website, you should organize its structure and content to make it user-friendly and efficient. Tools like Card Sorting and Flowcharts help in this planning process:
+Card Sorting is a method where content, features, or ideas are written on cards and then grouped by users or designers according to logical categories. This helps in understanding how users naturally expect information to be organized, making the website structure more intuitive.
+Flowcharts visually map out the pages, navigation paths, and user actions on a website. They allow designers to plan the sequence of pages, identify potential bottlenecks, and ensure that users can move smoothly from one section to another.
+Group C: Scenario-Based Questions (5 Marks) 
+
+8 You are designing a website for a University. It has hundreds of pages (Admissions, 
+Departments, Alumni, News). Which structural model would you choose? Draw a rough 
+diagram and justify your choice. 
+Ans: For a University website with hundreds of pages such as Admissions, Departments, Alumni, and News, the most suitable structural model is the Hierarchical (Tree) Structure. This model organizes information in levels, starting from the homepage and branching into main sections, which then further divide into subpages. It is ideal for large websites because it allows users to navigate from general categories to specific information easily, reducing confusion and making the site more user-friendly. For example, under Departments, there can be subpages for Science, Arts, and Engineering, while Admissions can have subpages for Undergraduate and Graduate programs. Using a hierarchical structure ensures clear organization, helps visitors find information quickly, and improves overall user experience.
+  University Website
+        |
+        |--> Admissions ---->  UnderGraduate | PostGraduate | Fees
+        |
+        |--> Departments| ----> Science ----> CS | IT | Management
+        |               |  ---->Arts
+        |
+        |--> Alumni ---------> Events | Donate
+        |
+        |--> News -----------> Updates | Announcements
+
+9. A user visits a website but leaves within 10 seconds because they cannot find the navigation 
+menu, which is hidden behind a small icon on a desktop screen. Analyze this design failure 
+using the ”KISS” (Keep It Simple) principle. 
+Ans: This design failure violates the KISS (Keep It Simple, Stupid) principle, which emphasizes simplicity and ease of use in design. By hiding the navigation menu behind a small icon on a desktop screen, the website makes it difficult for users to access important information quickly. Users should be able to see the main navigation clearly without extra effort. A complex or hidden design increases confusion and frustration, causing users to leave the site immediately, as in this case. Following the KISS principle would mean displaying a visible, straightforward menu that is easy to find and use, improving usability and keeping visitors engaged.
+
+10. An e-commerce website has a URL structure like www.shop.com/prod?idd=55&cat=9. Ex
+plain why this is bad for both users and Search Engines (SEO), and propose a better structure using Page Slugs.
+Ans: The URL www.shop.com/prod?idd=55&cat=9 is bad for both users and SEO for several reasons:
+1.Hard to read and remember: Users cannot easily understand what the page is about just by looking at the URL.
+2.Not descriptive: Search engines rely on keywords in URLs to understand page content; this URL has random numbers instead of meaningful words.
+3.Less trustworthy: Long query strings can look suspicious to users, reducing clicks.
+A better structure uses Page Slugs with readable words that describe the content. For example:
+www.shop.com/electronics/smartphone-samsung-galaxy-s22
+Readable for users: They can immediately see what the page is about.
+SEO-friendly: Keywords like “smartphone” and “Samsung Galaxy S22” help search engines rank the page better.
+Easier to share and remember: Users can easily copy, type, or link the URL.
+This makes the website more user-friendly and improves search engine visibility.
 
