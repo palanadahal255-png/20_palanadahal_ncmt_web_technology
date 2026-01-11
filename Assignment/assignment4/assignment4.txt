@@ -1,1 +1,34 @@
+Group A: Short Questions (2 Marks)
+1. Differentiate between Legibility and Readability.
+Ans: Legibility refers to how easily individual characters or letters can be distinguished from each other, mainly depending on font type, size, and spacing.
+Readability refers to how easily a block of text can be read and understood, depending on sentence structure, paragraph length, and layout.
+
+2. What is the “Rule of Thirds” in layout design?
+Ans: The Rule of Thirds is a design principle where a page is divided into three equal rows and columns, creating nine sections. Important elements are placed along these lines or at their intersections to create visual balance and focus.
+
+3. Why should you limit the number of font families used on a website?
+Ans:You should limit the number of font families on a website to keep it clean, readable, and professional. Using too many fonts can make the site look cluttered and distract users from the content.
+
+4. Define “Responsive Web Design.”
+Ans: Responsive Web Design is an approach where a website automatically adjusts its layout, images, and content to fit different screen sizes and devices such as desktops, tablets, and mobile phones.
+
+Group B: Long Questions (4 Marks)
+5. Explain the “F-Pattern” of scanning and how it influences the placement of content on a web page.
+Ans: The F-Pattern explains how users scan a web page by first reading across the top line, then moving slightly down to read another shorter line, and finally scanning vertically down the left side. This eye movement forms the shape of the letter “F.” It happens because users prefer to quickly find useful information instead of reading everything. As a result, users give more attention to the top and left areas of a webpage. Important elements like headings, logos, and menus are placed at the top. Key links and subheadings are placed on the left side. Call-to-action buttons are also positioned along this scanning path.
+
+6. Discuss the psychological impact of colors in web design. Give examples of where Blue, Red, and Green should be used.
+Ans: Colors in web design have a strong psychological impact because they influence how users feel and behave on a website. The right use of color can create trust, excitement, calmness, or urgency, which affects how users interact with a site.Blue represents trust and professionalism, so it is commonly used on banking, corporate, and social media websites. Red shows energy and urgency, making it suitable for sale offers, alerts, and call-to-action buttons. Green symbolizes nature, health, and growth, so it is often used on environmental, health, and finance-related websites
+
+7. Explain the “60-30-10 Rule” regarding color balance on a website.
+Ans: The 60–30–10 rule is a simple guideline for creating balanced and attractive color schemes in web design. According to this rule, 60% of the website should use a dominant color, which forms the main background and overall look of the site. 30% should be a secondary color that supports the main color and is used for areas like sidebars, cards, or sections. The remaining 10% is an accent color, used for important elements such as buttons, links, and highlights to draw the user’s attention. This rule helps keep the design visually pleasing, organized, and easy to focus on.
+
+Group C: Scenario-Based Questions (5 Marks)
+8. A website loads very slowly, causing users to abandon it. Upon inspection, you find the developer used high-resolution raw images directly from a camera. Explain the importance of Image Optimization and file formats (JPEG vs PNG) to solve this.
+Ans:Image optimization is very important for improving a website’s loading speed and overall user experience. Using high-resolution raw images directly from a camera makes file sizes extremely large, which increases page loading time and causes users to leave the site. By optimizing images—through resizing, compressing, and converting them into suitable web formats—the file size can be greatly reduced without noticeable loss of quality. JPEG format is best for photographs because it provides good quality with high compression, making images load faster. PNG, on the other hand, is better for graphics, logos, and images that need transparency, but it has a larger file size. Choosing the correct format and optimizing images helps websites load quickly, reduces bandwidth usage, and improves user satisfaction.
+
+9. You are designing a website for a Law Firm. The client wants to use a bright yellow background with Comic Sans font to look “friendly.” As a web designer, critique this choice based on Color Theory and Typography principles, and suggest a better alternative.
+Ans: Using a bright yellow background and Comic Sans font for a law firm website is not a good design choice based on color theory and typography principles. Bright yellow creates feelings of excitement and warning, which can cause eye strain and does not convey the seriousness, trust, and professionalism expected from a legal service. Comic Sans is an informal, playful font, often associated with children’s content, so it reduces the credibility and authority of the law firm. A law firm should look reliable, professional, and trustworthy. A better alternative would be to use calm and professional colors like dark blue, navy, or grey for the background, combined with white space for clarity. For typography, clean and professional fonts such as Times New Roman, Georgia (serif) or Arial, Helvetica (sans-serif) should be used to give a formal and readable appearance
+
+10. A website looks great on a laptop but is unreadable on a mobile phone because the user has to zoom in and scroll horizontally. Identify the design principle missing here and explain how Media Queries/Fluid Grids could fix it.
+Ans: The missing design principle here is Responsive Web Design (RWD), which ensures a website adapts to different screen sizes and devices. Without it, layouts designed for laptops may become unreadable on smaller screens, forcing users to zoom in or scroll horizontally. Media Queries allow designers to apply different CSS rules based on the device’s screen width, height, or orientation, so elements like text, images, and menus can adjust automatically. Fluid Grids use percentage-based widths instead of fixed pixels, letting content resize proportionally to the screen. Together, these techniques make the website flexible and readable on any device, improving usability and user experience.
 
